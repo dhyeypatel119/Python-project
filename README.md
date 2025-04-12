@@ -2,7 +2,7 @@
 🎯 Generate unique, creative, and relevant project names powered by Google Gemini AI and Gradio.
 
 📽️ Demo Video
-🔗 Watch the Demo on YouTube (Replace with your link)
+🔗 Watch the Demo on YouTube (https://youtu.be/_o8urorbhpg)
 
 🧠 Project Description
 Naming a project creatively and professionally is hard — let AI handle it!
